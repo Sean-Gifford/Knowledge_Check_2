@@ -1,0 +1,14 @@
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\Check2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\Check2.AssemblyInfoInputs.cache
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\Check2.AssemblyInfo.cs
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\Check2.csproj.CoreCompileInputs.cache
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\bin\Debug\net6.0\Check2.exe
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\bin\Debug\net6.0\Check2.deps.json
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\bin\Debug\net6.0\Check2.runtimeconfig.json
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\bin\Debug\net6.0\Check2.dll
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\bin\Debug\net6.0\Check2.pdb
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\Check2.dll
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\refint\Check2.dll
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\Check2.pdb
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\Check2.genruntimeconfig.cache
+C:\Users\seangi\Desktop\Knowledge_Check_2\Check2\obj\Debug\net6.0\ref\Check2.dll
